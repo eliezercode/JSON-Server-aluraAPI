@@ -1,0 +1,142 @@
+{
+  "characters": [
+    {
+      "id": "1",
+      "nombre": "Anakin Skywalker",
+      "fuerza": 96,
+      "imagen": "https://github.com/eliezercode/StarWars-Geek/blob/main/img/characters/anakin.png?raw=tru"
+    },
+    {
+      "id": "2",
+      "nombre": "Luke Skywalker",
+      "fuerza": 92,
+      "imagen": "https://github.com/eliezercode/StarWars-Geek/blob/main/img/characters/luke-skywalker.png?raw=true"
+    },
+    {
+      "id": "3",
+      "nombre": "Leia Organa",
+      "fuerza": 78,
+      "imagen": "https://github.com/eliezercode/StarWars-Geek/blob/main/img/characters/leia.png?raw=true"
+    },
+    {
+      "id": "4",
+      "nombre": "Padme Amidala",
+      "fuerza": 12,
+      "imagen": "https://github.com/eliezercode/StarWars-Geek/blob/main/img/characters/padme.png?raw=true"
+    },
+    {
+      "id": "5",
+      "nombre": "Han Solo",
+      "fuerza": 28,
+      "imagen": "https://github.com/eliezercode/StarWars-Geek/blob/main/img/characters/han.png?raw=true"
+    },
+    {
+      "id": "6",
+      "nombre": "Obi-Wan Kenobi",
+      "fuerza": 92,
+      "imagen": "https://github.com/eliezercode/StarWars-Geek/blob/main/img/characters/obi-wan.png?raw=true"
+    },
+    {
+      "id": "7",
+      "nombre": "Darth Vader",
+      "fuerza": 99,
+      "imagen": "https://github.com/eliezercode/StarWars-Geek/blob/main/img/characters/vader.png?raw=true"
+    },
+    {
+      "id": "8",
+      "nombre": "Kylo Ren",
+      "fuerza": 88,
+      "imagen": "https://github.com/eliezercode/StarWars-Geek/blob/main/img/characters/kylo-ren.png?raw=true"
+    },
+    {
+      "id": "9",
+      "nombre": "Darth Maul",
+      "fuerza": 90,
+      "imagen": "https://github.com/eliezercode/StarWars-Geek/blob/main/img/characters/darth-maul.png?raw=true"
+    },
+    {
+      "id": "10",
+      "nombre": "El Mandaloriano",
+      "fuerza": 82,
+      "imagen": "https://github.com/eliezercode/StarWars-Geek/blob/main/img/characters/mandalorian.png?raw=true"
+    },
+    {
+      "id": "11",
+      "nombre": "Zorii Blis",
+      "fuerza": 62,
+      "imagen": "https://github.com/eliezercode/StarWars-Geek/blob/main/img/characters/zorii-blis.png?raw=true"
+    },
+    {
+      "id": "12",
+      "nombre": "Krrsantan",
+      "fuerza": 41,
+      "imagen": "https://github.com/eliezercode/StarWars-Geek/blob/main/img/characters/krrsantan.png?raw=true"
+    },
+    {
+      "id": "13",
+      "nombre": "Rey Palpatine",
+      "fuerza": 80,
+      "imagen": "https://github.com/eliezercode/StarWars-Geek/blob/main/img/characters/rey.png?raw=true"
+    },
+    {
+      "id": "14",
+      "nombre": "Finn",
+      "fuerza": 26,
+      "imagen": "https://github.com/eliezercode/StarWars-Geek/blob/main/img/characters/finn.png?raw=true"
+    },
+    {
+      "id": "15",
+      "nombre": "Boba Fett",
+      "fuerza": 58,
+      "imagen": "https://github.com/eliezercode/StarWars-Geek/blob/main/img/characters/boba-fett.png?raw=true"
+    },
+    {
+      "id": "16",
+      "nombre": "Stormtrooper",
+      "fuerza": 26,
+      "imagen": "https://github.com/eliezercode/StarWars-Geek/blob/main/img/characters/stormtrooper.png?raw=true"
+    },
+    {
+      "id": "17",
+      "nombre": "Sith Trooper",
+      "fuerza": 30,
+      "imagen": "https://github.com/eliezercode/StarWars-Geek/blob/main/img/characters/sith-trooper.png?raw=true"
+    },
+    {
+      "id": "18",
+      "nombre": "Soldado Clon",
+      "fuerza": 22,
+      "imagen": "https://github.com/eliezercode/StarWars-Geek/blob/main/img/characters/soldado06.png?raw=true"
+    },
+    {
+      "id": "19",
+      "nombre": "Soldado Ahsoka",
+      "fuerza": 20,
+      "imagen": "https://github.com/eliezercode/StarWars-Geek/blob/main/img/characters/soldado03.png?raw=true"
+    },
+    {
+      "id": "20",
+      "nombre": "Guardia Coruscant",
+      "fuerza": 24,
+      "imagen": "https://github.com/eliezercode/StarWars-Geek/blob/main/img/characters/soldado02.png?raw=true"
+    },
+    {
+      "id": "21",
+      "nombre": "Guardia Batallón",
+      "fuerza": 22,
+      "imagen": "https://github.com/eliezercode/StarWars-Geek/blob/main/img/characters/soldado01.png?raw=true"
+    },
+    {
+      "id": "22",
+      "nombre": "Soldado Legión",
+      "fuerza": 24,
+      "imagen": "https://github.com/eliezercode/StarWars-Geek/blob/main/img/characters/soldado05.png?raw=true"
+    },
+    {
+      "id": "23",
+      "nombre": "Soldado Wolfpack",
+      "fuerza": 21,
+      "imagen": "https://github.com/eliezercode/StarWars-Geek/blob/main/img/characters/soldado04.png?raw=true"
+    }
+  ]
+}
